@@ -1,0 +1,35 @@
+{
+    "name": "shiveling-theme",
+    "displayName": "Shiveling Theme",
+    "description": "Dark color theme for Visual Studio Code.",
+    "version": "1.0.0",
+    "publisher": "oliverseal",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Shiveling",
+                "uiTheme": "vs-dark",
+                "path": "./themes/shiveling.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/oliverseal/shiveling-theme"
+    },
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#2d3a3c",
+        "theme": "dark"
+    },
+    "scripts": {
+        "format": "npx prettier themes"
+    },
+    "license": "MIT"
+}
