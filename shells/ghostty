@@ -1,0 +1,24 @@
+# Ghostty theme: shiveling
+# Based on shiveling.itermcolors
+# ln -s .../shells/ghostty ~/.config/ghostty/themes/shiveling
+
+palette = 0=#000000
+palette = 1=#f16857
+palette = 2=#90a992
+palette = 3=#da8115
+palette = 4=#7093cb
+palette = 5=#d85a47
+palette = 6=#6f8e7d
+palette = 7=#d2b48c
+palette = 8=#333333
+palette = 9=#f16857
+palette = 10=#90a992
+palette = 11=#da8115
+palette = 12=#61c5d8
+palette = 13=#d85a47
+palette = 14=#6f8e7d
+palette = 15=#ecb490
+
+background = #000000
+foreground = #d2b48c
+cursor-color = #d2b48c
