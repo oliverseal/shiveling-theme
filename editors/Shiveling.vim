@@ -178,3 +178,5 @@ hi CocErrorFloat ctermfg=0 ctermbg=3 cterm=NONE guifg=#000000 guibg=#f16857 gui=
 hi CocWarningFloat ctermfg=0 ctermbg=3 cterm=NONE guifg=#000000 guibg=#da8115 gui=NONE
 hi CocInfoFloat ctermfg=0 ctermbg=4 cterm=NONE guifg=#000000 guibg=#7093cb gui=NONE
 hi CocHintFloat ctermfg=0 ctermbg=6 cterm=NONE guifg=#000000 guibg=#6f8e7d gui=NONE
+
+hi NormalFloat ctermfg=0 ctermbg=8 cterm=NONE guifg=#000000 guibg=#da8115 gui=NONE
