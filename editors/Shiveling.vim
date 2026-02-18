@@ -174,7 +174,7 @@ hi PmenuThumb ctermfg=0 ctermbg=3 cterm=NONE guifg=#000000 guibg=#da8115 gui=NON
 
 " Coc (Conquer of Completion) plugin
 hi CocFloating ctermfg=0 ctermbg=3 cterm=NONE guifg=#000000 guibg=#da8115 gui=NONE
-hi CocErrorFloat ctermfg=1 ctermbg=0 cterm=NONE guifg=#f16857 guibg=#000000 gui=NONE
-hi CocWarningFloat ctermfg=3 ctermbg=0 cterm=NONE guifg=#da8115 guibg=#000000 gui=NONE
-hi CocInfoFloat ctermfg=4 ctermbg=0 cterm=NONE guifg=#7093cb guibg=#000000 gui=NONE
-hi CocHintFloat ctermfg=6 ctermbg=0 cterm=NONE guifg=#6f8e7d guibg=#000000 gui=NONE
+hi CocErrorFloat ctermfg=0 ctermbg=3 cterm=NONE guifg=#000000 guibg=#f16857 gui=NONE
+hi CocWarningFloat ctermfg=0 ctermbg=3 cterm=NONE guifg=#000000 guibg=#da8115 gui=NONE
+hi CocInfoFloat ctermfg=0 ctermbg=4 cterm=NONE guifg=#000000 guibg=#7093cb gui=NONE
+hi CocHintFloat ctermfg=0 ctermbg=6 cterm=NONE guifg=#000000 guibg=#6f8e7d gui=NONE
